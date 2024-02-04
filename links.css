@@ -1,0 +1,3 @@
+a.internal_link[data-link-category~="automated"]::before{
+    content:"test "
+}

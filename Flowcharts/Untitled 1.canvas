@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"55c80597b13eea8a","x":-149,"y":-198,"width":250,"height":60,"type":"text","text":"Is that MV?"},
+		{"id":"edc2a006802f8c8a","x":-24,"y":41,"width":250,"height":60,"type":"text","text":"Next Year"},
+		{"id":"fbf80d93b5828b6f","x":-274,"y":41,"width":250,"height":60,"type":"text","text":"Soon™"},
+		{"id":"3c48a0e96ee77388","x":-178,"y":-280,"width":309,"height":60,"type":"text","text":"\"Tropical Depression, when's X?\""}
+	],
+	"edges":[
+		{"id":"52ffd47398ea9531","fromNode":"55c80597b13eea8a","fromSide":"bottom","toNode":"edc2a006802f8c8a","toSide":"top","label":"no"},
+		{"id":"3338d752e1bf3242","fromNode":"55c80597b13eea8a","fromSide":"bottom","toNode":"fbf80d93b5828b6f","toSide":"top","label":"yes"},
+		{"id":"ade4c630e06009ec","fromNode":"fbf80d93b5828b6f","fromSide":"left","toNode":"3c48a0e96ee77388","toSide":"left"},
+		{"id":"07ad900ffdbe7dd0","fromNode":"edc2a006802f8c8a","fromSide":"right","toNode":"3c48a0e96ee77388","toSide":"right"},
+		{"id":"6450b0c5d0b5783c","fromNode":"3c48a0e96ee77388","fromSide":"bottom","toNode":"55c80597b13eea8a","toSide":"top"}
+	]
+}

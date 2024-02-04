@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"259a34ecb5c74eec","x":-160,"y":-227,"width":250,"height":60,"type":"text","text":"iron dust\n3000 HCL"},
+		{"id":"8048f0a7248244ca","x":-127,"y":-64,"width":250,"height":60,"type":"text","text":"3000 H\n1000 I3C"}
+	],
+	"edges":[]
+}

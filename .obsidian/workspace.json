@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "68e2d373551c0217",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe1fe64437cd78f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e06aecabefd8d52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Production/Processors/Engineering Processor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c40ccf2f37470a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cd2ccfe48b57fc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a9371c9d1b2f110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6106539b1d64f68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8c34ae95a798e30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4cd6de0bc20e84c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b84ec6346405b406",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ongoing Problems.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.51103591918945
+  },
+  "right": {
+    "id": "be09a68bb1a71489",
+    "type": "split",
+    "children": [
+      {
+        "id": "13782b7acd9782b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f32f4274597ec717",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4df984cb29c2e12f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2a73623cc88adcef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbda8556e2fe7de7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d6bdc6a785e9883",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "da6627ff0a7d069e",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f3e78d882a99e84",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "c6106539b1d64f68",
+  "lastOpenFiles": [
+    "Work.md",
+    "GTNH-Planning",
+    "Production/Processors/Engineering Processor.md",
+    "Production/Processors/Calculation Processor.md",
+    "Production/Processors/Printed Calculation Circuit.md",
+    "Production/Solid Blocks",
+    "Production/Components/Plates",
+    "Production/Components",
+    "Water Production Rate.md",
+    "Flowcharts/Untitled 1.canvas",
+    "Flowcharts/Untitled.canvas",
+    "Thaumic Restorer.md",
+    "Targeted Ore Processing.md",
+    "Flowcharts/Silicone Chart.canvas",
+    "Production/Solid Blocks/Block of Diamond.md",
+    "Production/Components/Plates/Diamond Plate.md",
+    "Production/Components/Plates/Certus Quartz Plate.md",
+    "Production/Processors/Printed Silicon.md",
+    "Production/Processors/Printed Engineering Circuit.md",
+    "Low Voltage Regulator.md",
+    "Production/Processors",
+    "Oil.md",
+    "Ongoing Problems.md",
+    "Pasted image 20230910232029.png",
+    "Pasted image 20231120102602.png",
+    "Templates/Automation Item Template.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Sugar Beets.md",
+    "Production",
+    "Templates/Bee Template.md",
+    "Wrought Iron Dust.md",
+    "Wet Concrete.md",
+    "Unweary Bee.md",
+    "Wood Plank.md",
+    "Tin Bee.md",
+    "Flowcharts",
+    "Flowcharts/Benzene Chart.canvas",
+    "Flowcharts/Nitric Acid Chain.canvas",
+    "Flowcharts/Honey to Ethanol Line.canvas",
+    "Ingredients/Metals/tin",
+    "Ingredients/Plants",
+    "Ingredients/Metals/Copper"
+  ]
+}

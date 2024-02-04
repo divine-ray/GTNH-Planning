@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "automated": "checkbox",
+    "needed-machine": "multitext",
+    "needed-for": "multitext",
+    "used-in": "multitext",
+    "machine-voltage": "text",
+    "base-craft-time": "number",
+    "component-group": "multitext",
+    "ingredients": "multitext"
+  }
+}

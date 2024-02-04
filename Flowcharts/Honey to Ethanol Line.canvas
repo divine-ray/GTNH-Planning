@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"16c6c57118f95c01","type":"text","text":"13.333 fermented biomass -> 2 ethanol a second","x":265,"y":110,"width":295,"height":60},
+		{"id":"8650fb778bfe98d6","type":"text","text":"Fermenter\n7.5 seconds\n100 biomass -> 100 fermented biomass\n","x":-140,"y":-120,"width":383,"height":129},
+		{"id":"76d04536cc8d6058","type":"text","text":"Distillery\n75 seconds\n1000 fermented biomass -> 150 ethanol","x":243,"y":-120,"width":340,"height":129},
+		{"id":"1db1e571ea439911","type":"text","text":"5.333 breweries","x":-368,"y":249,"width":214,"height":60},
+		{"id":"d33927205224ca4d","type":"text","text":"0.02667 Extractors","x":-599,"y":249,"width":210,"height":60},
+		{"id":"651ade3ffb4fde64","type":"text","text":"1 Fermenter","x":-98,"y":249,"width":178,"height":60},
+		{"id":"9eff954b27fa46ae","type":"text","text":"1 distillery","x":120,"y":249,"width":160,"height":60},
+		{"id":"003d562de6a3fe46","type":"text","text":"Brewery\n60 seconds\n100 honey, 1 sapling -> 150 biomass","x":-488,"y":-120,"width":348,"height":129},
+		{"id":"7b82e99ccb7ae5d2","type":"text","text":"Fluid Extractor\n1.6 seconds\n1 honey drop -> 100 honey","x":-768,"y":-120,"width":280,"height":129},
+		{"id":"6287d4751333e202","type":"text","text":"0.625 honey drop -> 62.5 honey a second","x":-744,"y":110,"width":232,"height":60},
+		{"id":"47efc1adebf74963","type":"text","text":"1.6667 honey, 0.0166 saplings -> 2.5 biomass a second","x":-474,"y":110,"width":320,"height":60},
+		{"id":"32549519d14025ea","type":"text","text":"13.333 biomass -> fermented biomass a second","x":-98,"y":110,"width":300,"height":60}
+	],
+	"edges":[
+		{"id":"c553e49a03b3e206","fromNode":"003d562de6a3fe46","fromSide":"bottom","toNode":"47efc1adebf74963","toSide":"top"},
+		{"id":"6b5a4db444cf02de","fromNode":"8650fb778bfe98d6","fromSide":"bottom","toNode":"32549519d14025ea","toSide":"top"},
+		{"id":"97bf56b8f3248d8a","fromNode":"76d04536cc8d6058","fromSide":"bottom","toNode":"16c6c57118f95c01","toSide":"top"},
+		{"id":"296b0626b8851f36","fromNode":"47efc1adebf74963","fromSide":"bottom","toNode":"1db1e571ea439911","toSide":"top"},
+		{"id":"3c2804491903ac5f","fromNode":"32549519d14025ea","fromSide":"bottom","toNode":"651ade3ffb4fde64","toSide":"top"},
+		{"id":"ed59c3a32cedb692","fromNode":"16c6c57118f95c01","fromSide":"bottom","toNode":"9eff954b27fa46ae","toSide":"right"},
+		{"id":"884532288f959730","fromNode":"7b82e99ccb7ae5d2","fromSide":"bottom","toNode":"6287d4751333e202","toSide":"top"},
+		{"id":"9968cd51598d2d8c","fromNode":"6287d4751333e202","fromSide":"bottom","toNode":"d33927205224ca4d","toSide":"left"}
+	]
+}

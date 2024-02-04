@@ -1,0 +1,1 @@
+I do not need to send every ore through the entire ore process. Some things I don't need the byproducts on. Some things I can get more of a needed product.

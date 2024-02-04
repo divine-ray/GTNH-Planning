@@ -1,0 +1,52 @@
+{
+  "targetAttributes": [
+    "automated"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "automated",
+      "value": "true",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "1254-813c",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "automated",
+      "value": "null",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "fb26-70fc",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "automated",
+      "value": "false",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "fb26-70fc",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

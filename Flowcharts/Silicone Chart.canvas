@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"6f027bcc6d342201","type":"group","x":-320,"y":-280,"width":672,"height":240,"label":"LV"},
+		{"id":"82506ba1bdd6d2b1","type":"group","x":1140,"y":-280,"width":670,"height":240,"color":"2","label":"LV"},
+		{"id":"af623934383b3bfa","type":"group","x":780,"y":-280,"width":654,"height":240,"color":"6","label":"MV"},
+		{"id":"0295a26ceedfcb9f","type":"group","x":420,"y":-280,"width":650,"height":240,"color":"4","label":"MV"},
+		{"id":"ea6cfdba4e55eb58","type":"group","x":62,"y":-280,"width":290,"height":240,"label":"Untitled group"},
+		{"id":"1c353881873b3ec6","type":"text","text":"Molten Silicone Rubber 1296L\n","x":1881,"y":-186,"width":250,"height":60,"color":"2"},
+		{"id":"765ab518a2312c30","type":"text","text":"[[Methane]] 1000L","x":-300,"y":-260,"width":250,"height":60,"color":"5"},
+		{"id":"e1d4f8224cd18527","type":"text","text":"[[Chlorine]] 2000L","x":-300,"y":-120,"width":250,"height":60,"color":"5"},
+		{"id":"85be2fe3f3dadcff","type":"text","text":"[[Polydimethylsiloxane Pulp]] x 3\n","x":1160,"y":-260,"width":250,"height":60},
+		{"id":"633a197954d436cc","type":"text","text":"Polydimethylsiloxane Pulp x 9\n\n","x":1540,"y":-260,"width":250,"height":60},
+		{"id":"f1aee4c35595d86c","type":"text","text":"[[Dimethyldichlorosane]] 1000L\n","x":800,"y":-260,"width":250,"height":60},
+		{"id":"3ecedb841533e8a3","type":"text","text":"Water 1000L\n","x":800,"y":-120,"width":250,"height":60,"color":"5"},
+		{"id":"27dad97369896dc2","type":"text","text":"Sulfur Dust\n","x":1540,"y":-120,"width":250,"height":60,"color":"5"},
+		{"id":"5d45def500aeca90","type":"text","text":"Diluted Hydrochloric Acid 1000L\n","x":1164,"y":-120,"width":250,"height":60},
+		{"id":"5e68adc78fd4b837","type":"text","text":"Chloromethane 2000L","x":440,"y":-260,"width":250,"height":60},
+		{"id":"9521e7e9fca9eede","type":"text","text":"Silicon Dust","x":440,"y":-120,"width":250,"height":60,"color":"5"},
+		{"id":"423da9023c81257c","type":"text","text":"[[Chloromethane]] 1000L","x":82,"y":-260,"width":250,"height":60},
+		{"id":"17a8256d616d557e","type":"text","text":"[[Hydrochloric Acid]]\n1000L","x":82,"y":-120,"width":250,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"d689e071a1e147bd","fromNode":"765ab518a2312c30","fromSide":"right","toNode":"ea6cfdba4e55eb58","toSide":"left"},
+		{"id":"3de3095b2c10db95","fromNode":"e1d4f8224cd18527","fromSide":"right","toNode":"ea6cfdba4e55eb58","toSide":"left"},
+		{"id":"bee7aa3b5c04164b","fromNode":"423da9023c81257c","fromSide":"right","toNode":"5e68adc78fd4b837","toSide":"left"},
+		{"id":"d8e5eb0377a1e56c","fromNode":"9521e7e9fca9eede","fromSide":"right","toNode":"f1aee4c35595d86c","toSide":"left"},
+		{"id":"2ef77b547831e4b7","fromNode":"5e68adc78fd4b837","fromSide":"right","toNode":"f1aee4c35595d86c","toSide":"left"},
+		{"id":"8660434b1469f275","fromNode":"85be2fe3f3dadcff","fromSide":"right","toNode":"633a197954d436cc","toSide":"left"},
+		{"id":"09ba8b7a805aa587","fromNode":"633a197954d436cc","fromSide":"right","toNode":"1c353881873b3ec6","toSide":"left"},
+		{"id":"5fcbd346e026f7a1","fromNode":"27dad97369896dc2","fromSide":"right","toNode":"1c353881873b3ec6","toSide":"left"},
+		{"id":"12c1cd0844b73e60","fromNode":"f1aee4c35595d86c","fromSide":"right","toNode":"82506ba1bdd6d2b1","toSide":"left"},
+		{"id":"d7c05aedcfff5994","fromNode":"3ecedb841533e8a3","fromSide":"right","toNode":"82506ba1bdd6d2b1","toSide":"left"}
+	]
+}

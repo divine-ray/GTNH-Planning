@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"60ddd1c161862035","type":"text","text":"Hydrogen Gas","x":143,"y":150,"width":250,"height":60},
+		{"id":"ef21556fbd8049b7","type":"text","text":"Sodium Dust","x":-280,"y":150,"width":250,"height":60},
+		{"id":"68257b0d80ca5d6e","type":"text","text":"Water","x":-280,"y":-27,"width":250,"height":60},
+		{"id":"887ca15ccee07b96","type":"text","text":"Sodium Hydroxide","x":143,"y":-27,"width":250,"height":60},
+		{"id":"f167d6873ba49bda","type":"text","text":"Nitrogen Gas","x":143,"y":340,"width":250,"height":60},
+		{"id":"9284d073356f0bc6","type":"text","text":"Oxygen Gas","x":503,"y":423,"width":250,"height":60},
+		{"id":"6e849345040aa26f","type":"text","text":"Ammonia","x":503,"y":240,"width":250,"height":60},
+		{"id":"57704829b2cc42a0","type":"text","text":"Nitric Oxide","x":872,"y":348,"width":250,"height":60},
+		{"id":"b62013d79e22eee2","type":"text","text":"Nitrogen Dioxide","x":1060,"y":535,"width":250,"height":60},
+		{"id":"07a54c0a22b1c52f","type":"text","text":"Water","x":1060,"y":660,"width":250,"height":60},
+		{"id":"013f9eca74528551","type":"text","text":"Nitric Acid","x":1500,"y":600,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"50b90edc7b590fa8","fromNode":"f167d6873ba49bda","fromSide":"right","toNode":"6e849345040aa26f","toSide":"left"},
+		{"id":"eceddbf161b07c3e","fromNode":"9284d073356f0bc6","fromSide":"right","toNode":"b62013d79e22eee2","toSide":"left"},
+		{"id":"71288bb0924869b4","fromNode":"57704829b2cc42a0","fromSide":"bottom","toNode":"b62013d79e22eee2","toSide":"left"},
+		{"id":"7336a579acbd2923","fromNode":"6e849345040aa26f","fromSide":"right","toNode":"57704829b2cc42a0","toSide":"left"},
+		{"id":"a2a629e68a4a4e48","fromNode":"9284d073356f0bc6","fromSide":"right","toNode":"57704829b2cc42a0","toSide":"left"},
+		{"id":"03f13dedd6bdd9a3","fromNode":"68257b0d80ca5d6e","fromSide":"right","toNode":"60ddd1c161862035","toSide":"left"},
+		{"id":"50781ab69f1426f9","fromNode":"ef21556fbd8049b7","fromSide":"right","toNode":"887ca15ccee07b96","toSide":"left"},
+		{"id":"7d80b80f1c361f56","fromNode":"68257b0d80ca5d6e","fromSide":"right","toNode":"887ca15ccee07b96","toSide":"left"},
+		{"id":"49faf609b350abe9","fromNode":"ef21556fbd8049b7","fromSide":"right","toNode":"60ddd1c161862035","toSide":"left"},
+		{"id":"8b5fc9aa266046d9","fromNode":"60ddd1c161862035","fromSide":"right","toNode":"6e849345040aa26f","toSide":"left"},
+		{"id":"26db4dc5e16d58f7","fromNode":"b62013d79e22eee2","fromSide":"right","toNode":"013f9eca74528551","toSide":"left"},
+		{"id":"f276632b7e2a3490","fromNode":"07a54c0a22b1c52f","fromSide":"right","toNode":"013f9eca74528551","toSide":"left"},
+		{"id":"7d0d86fa53b206e6","fromNode":"b62013d79e22eee2","fromSide":"right","toNode":"57704829b2cc42a0","toSide":"right"}
+	]
+}
