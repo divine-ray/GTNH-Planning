@@ -8,19 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e06aecabefd8d52",
+            "id": "1c40ccf2f37470a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Production/Processors/Engineering Processor.md",
+                "file": "Production/Processes and Machines/Mob Farm/Blaze (Inferno).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c40ccf2f37470a8",
+            "id": "0e38efe7502b0543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Production/Processes and Machines/EEC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09034fdd03fdf07c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Production/Processes and Machines/Mob Farm/Witch of Rage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e68bd45247e1a58",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -28,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,50 +218,51 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c6106539b1d64f68",
+  "active": "5e68bd45247e1a58",
   "lastOpenFiles": [
+    "Production/Processes and Machines/Mob Farm/Witch of Rage.md",
+    "Production/Processes and Machines/Mob Farm/Blaze (Inferno).md",
+    "Production/Processes and Machines/EEC.md",
+    "Production/Processes and Machines/Mob Farm/Slimebug.md",
+    "Production/Processes and Machines/Mob Farm/Enderman.md",
+    "Production/Processes and Machines/Mob Farm/Ghast.md",
+    "Production/Processes and Machines/Mob Farm/Redcap Sapper.md",
+    "Production/Processes and Machines/Mob Farm",
+    "Magma Slime",
     "Work.md",
-    "GTNH-Planning",
+    "Production/Processes and Machines/Saltwater Electrolysis.md",
+    "Oil.md",
+    "Ongoing Problems.md",
+    "Pasted image 20230910232029.png",
+    "Pasted image 20231120102602.png",
+    "Targeted Ore Processing.md",
+    "Thaumic Restorer.md",
+    "Untitled.md",
+    "Water Production Rate.md",
+    "Production/Mob Drops",
+    "Production/Fluids",
+    "Production/Pure Elements",
+    "Production/Processes and Machines",
+    "Production/Processors/Printed Engineering Circuit.md",
     "Production/Processors/Engineering Processor.md",
+    "Production/Fluids/Saltwater.md",
+    "Production/Sodium Hydroxide.md",
+    "Production/Pure Elements/Chlorine.md",
+    "Production/Mob Drops/Ghast Tear.md",
+    "GTNH-Planning",
     "Production/Processors/Calculation Processor.md",
     "Production/Processors/Printed Calculation Circuit.md",
     "Production/Solid Blocks",
     "Production/Components/Plates",
     "Production/Components",
-    "Water Production Rate.md",
     "Flowcharts/Untitled 1.canvas",
     "Flowcharts/Untitled.canvas",
-    "Thaumic Restorer.md",
-    "Targeted Ore Processing.md",
     "Flowcharts/Silicone Chart.canvas",
     "Production/Solid Blocks/Block of Diamond.md",
     "Production/Components/Plates/Diamond Plate.md",
     "Production/Components/Plates/Certus Quartz Plate.md",
-    "Production/Processors/Printed Silicon.md",
-    "Production/Processors/Printed Engineering Circuit.md",
-    "Low Voltage Regulator.md",
-    "Production/Processors",
-    "Oil.md",
-    "Ongoing Problems.md",
-    "Pasted image 20230910232029.png",
-    "Pasted image 20231120102602.png",
-    "Templates/Automation Item Template.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Sugar Beets.md",
-    "Production",
-    "Templates/Bee Template.md",
-    "Wrought Iron Dust.md",
-    "Wet Concrete.md",
-    "Unweary Bee.md",
-    "Wood Plank.md",
-    "Tin Bee.md",
-    "Flowcharts",
     "Flowcharts/Benzene Chart.canvas",
     "Flowcharts/Nitric Acid Chain.canvas",
-    "Flowcharts/Honey to Ethanol Line.canvas",
-    "Ingredients/Metals/tin",
-    "Ingredients/Plants",
-    "Ingredients/Metals/Copper"
+    "Flowcharts/Honey to Ethanol Line.canvas"
   ]
 }

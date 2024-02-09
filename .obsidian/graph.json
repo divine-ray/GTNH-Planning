@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "[\"automated\":] ",
+  "collapse-filter": true,
+  "search": "[\"automated\":] OR  tag:#Processing  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,10 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "[component-group:\"Mob Drops\"\"]",
+      "color": {
+        "a": 1,
+        "rgb": 1557657
+      }
+    },
+    {
+      "query": "tag:#Processing  ",
+      "color": {
+        "a": 1,
+        "rgb": 2659726
+      }
+    },
+    {
       "query": "line:(automated true)",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 4442417
       }
     },
     {
@@ -23,15 +37,15 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 1.33054545454545,
   "lineSizeMultiplier": 1.09781818181818,
   "collapse-forces": false,
-  "centerStrength": 0.203125,
+  "centerStrength": 0.380208333333333,
   "repelStrength": 10.4166666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.47551697508162916,
+  "scale": 1.8371173070873954,
   "close": false
 }
