@@ -6,43 +6,40 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] [[Crop-Matron]]
-- [ ] [[Spider Eyes]] from [[Eyebulb]]
-- [ ] Hydrogen deep storage utilizing large fluid cells
-- [ ] CO production and deep storage
-- [ ] Move everything to HV for transport
-- [ ] [[Oil]]
-- [ ] HV
+- [ ] Automate [[PVC]]
+- [ ] Setup [[Sodium Hydroxide|NaOH]] electrolysis
+- [ ] Board automation
+- [ ] ABS for bullshittium GT++ alloys (for oreproc multi)
+- [ ] dedicated quad ebf at best possible stats for autocrafting
+- [ ] one/two of each HV crafting machine (assembler, lathe, wiremill, bender, 4 extruders) + 9x batt buffer
+- [ ] automated source of nether stars ([[EEC]])
 
 
 ## Planned
 
-- [ ] [[Targeted Ore Processing]]
-- [ ] Healing Axe or Canned Food
-- [ ] two more EBFs
-- [ ] resurface base
+- [ ] Acquire heap of quartzes
+- [ ] Semi automate AE2 Processors
+- [ ] Passive setup SMDs
+- [ ] BENZENEEEE
+- [ ] 16 compressed chests
+- [ ] Raw #Simple-Components Autocrafting
+- [ ] Components Autocrafting (Pistons, Motors, etc), automated; optionally stock keeping
+- [ ] 16 interfaces, 64 patterns, tons of cables
+- [ ] molecular assembler w/ 4 speed cards
+- [ ] plan and realise subnet for oreproc
+- [ ] retrofit two alvearies into super production and mutation with tubes, respectively
 
 
-## In Progress [2]
+## In Progress
 
 
 
 ## Complete
 
-- [ ] Benzene
-- [ ] [[Wet Concrete]]
-- [ ] Automate [[Good Integrated Circuit]]
-- [ ] Automate [[Integrated Logic Circuit (LV Circuit)]]
-- [ ] [[Wafer]] automation
-- [ ] Check miner
-- [ ] Fix Steel Production
-- [ ] Level maintain aluminium so that it doesn't hog the EBF
-- [ ] Check Miner
-- [ ] Piston Boots
-- [ ] ramp up steel production
-- [ ] clear glass automated
-- [ ] automatic rape processing
-- [ ] equal trade focus
+- [ ] Joe Drilling Senior
+- [ ] Crude AE Network
+- [ ] 10x16K ME disks
+- [ ] Epoxy automation
 
 
 ## Abandoned
