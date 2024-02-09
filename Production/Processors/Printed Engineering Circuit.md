@@ -1,7 +1,9 @@
 ---
 automated: false
-needed-for: 
-ingredients: "[[Diamond Plate]]"
+needed-for:
+  - "[[Engineering Processor]]"
+ingredients:
+  - "[[Diamond Plate]]"
 machine-type: Forming Press
 machine-voltage: HV
 base-craft-time: 
