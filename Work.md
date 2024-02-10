@@ -13,6 +13,8 @@ kanban-plugin: basic
 - [ ] dedicated quad ebf at best possible stats for autocrafting
 - [ ] one/two of each HV crafting machine (assembler, lathe, wiremill, bender, 4 extruders) + 9x batt buffer
 - [ ] automated source of nether stars ([[EEC]])
+- [ ] Either: Expand Ghast Tears OR EEC w/Ghast
+- [ ] Acquire independent Sulfur Supply (Red/Nether Stonelily OR Blaze)
 
 
 ## Planned
