@@ -33,9 +33,11 @@
             "id": "8b3727a9f61d06c2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Work.md"
+                "file": "Production/Processes and Machines/Mob Farm/Slimebug.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -74,9 +76,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3916fb7a1f72e26b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Production/Processes and Machines/EEC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01f5a78f512a4274",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Work.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -246,49 +270,49 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "8b3727a9f61d06c2",
+  "active": "01f5a78f512a4274",
   "lastOpenFiles": [
-    "GTNH Base Planning.md",
-    "Emergency Reaction and Incident Report System.md",
-    "Production/Processes and Machines/EEC.md",
+    "Water Production Rate.md",
+    "Work.md",
+    "Layers of Hell/Lust.md",
     "Production/Processes and Machines/Mob Farm/Witch of Rage.md",
-    "Production/Fluids/Saltwater.md",
-    "Production/Mob Drops/Ghast Tear.md",
-    "Production/Processes and Machines/Mob Farm/Blaze (Inferno).md",
     "Production/Processes and Machines/Mob Farm/Slimebug.md",
+    "Production/Processes and Machines/Mob Farm/Redcap Sapper.md",
+    "Production/Processes and Machines/Mob Farm/Blaze (Inferno).md",
     "Production/Processes and Machines/Mob Farm/Enderman.md",
     "Production/Processes and Machines/Mob Farm/Ghast.md",
-    "Production/Processes and Machines/Mob Farm/Redcap Sapper.md",
+    "Production/Processes and Machines/EEC.md",
+    "Production/Mob Drops/Ghast Tear.md",
+    "Production/Processes and Machines/Saltwater Electrolysis.md",
+    "GTNH Base Planning.md",
+    "Layers of Hell/Fraud.md",
+    "Layers of Hell/Violence.md",
+    "Layers of Hell/Heresy.md",
+    "Glowstone Dust.md",
+    "Layers of Hell/Greed.md",
+    "Layers of Hell/Wrath.md",
+    "Layers of Hell/Gluttony.md",
+    "Layers of Hell/Limbo.md",
+    "Emergency Reaction and Incident Report System.md",
+    "Production/Fluids/Saltwater.md",
     "Production/Processes and Machines/Mob Farm",
     "Magma Slime",
-    "Work.md",
-    "Production/Processes and Machines/Saltwater Electrolysis.md",
     "Oil.md",
     "Ongoing Problems.md",
     "Pasted image 20230910232029.png",
     "Pasted image 20231120102602.png",
     "Targeted Ore Processing.md",
-    "Thaumic Restorer.md",
-    "Untitled.md",
-    "Water Production Rate.md",
     "Production/Mob Drops",
     "Production/Fluids",
     "Production/Pure Elements",
     "Production/Processes and Machines",
-    "Production/Processors/Printed Engineering Circuit.md",
-    "Production/Processors/Engineering Processor.md",
-    "Production/Sodium Hydroxide.md",
-    "Production/Pure Elements/Chlorine.md",
-    "GTNH-Planning",
-    "Production/Processors/Calculation Processor.md",
-    "Production/Processors/Printed Calculation Circuit.md",
+    "Layers of Hell",
     "Production/Solid Blocks",
     "Production/Components/Plates",
     "Production/Components",
     "Flowcharts/Untitled 1.canvas",
     "Flowcharts/Untitled.canvas",
     "Flowcharts/Silicone Chart.canvas",
-    "Production/Solid Blocks/Block of Diamond.md",
     "Flowcharts/Benzene Chart.canvas",
     "Flowcharts/Nitric Acid Chain.canvas",
     "Flowcharts/Honey to Ethanol Line.canvas"

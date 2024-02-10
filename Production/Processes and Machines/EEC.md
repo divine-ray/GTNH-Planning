@@ -7,9 +7,11 @@ needed-for:
 ingredients: 
 machine-type: 
 machine-voltage: 
-base-craft-time:
+base-craft-time: 
+aliases:
+  - Extreme extermination chamber
 ---
-Extreme extermination chamber.
+.
 [[Enderman]]
 [[Blaze (Inferno)]]
 [[Redcap Sapper]]
