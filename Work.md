@@ -9,28 +9,34 @@ kanban-plugin: basic
 - [ ] Setup [[Sodium Hydroxide|NaOH]] electrolysis
 - [ ] ABS for bullshittium GT++ alloys (for oreproc multi)
 - [ ] dedicated quad ebf at best possible stats for autocrafting
-- [ ] one/two of each HV crafting machine (assembler, lathe, wiremill, bender, 4 extruders) + 9x batt buffer
+- [ ] one/two of each HV crafting machine (assembler, lathe, wiremill, bender, 4 extruders, mixer) + 9x batt buffer
+- [ ] Styrene-Butadiene Rubber automation
 
 
 ## Planned
 
+- [ ] plan and realise subnet for oreproc
 - [ ] Semi automate AE2 Processors
+- [ ] Quartzes processing, passive fiberd
 - [ ] Raw #Simple-Components Autocrafting
 - [ ] Components Autocrafting (Pistons, Motors, etc), automated; optionally stock keeping
 - [ ] molecular assembler w/ 4 speed cards
-- [ ] plan and realise subnet for oreproc
 - [ ] retrofit two alvearies into super production and mutation with tubes, respectively
 - [ ] Huge Multifarm for IC2 in [[Limbo]]
-- [ ] Storage Bus into Drawer Controller
+- [ ] 1 ME Drive, 10 4k Singletype Fluid Drives, fluid terminal
+- [ ] Platline in it's full glory and beauty
+- [ ] Storage Bus Controller into our Drawers (main metals, crops, bauxline)
+- [ ] RIP OUT WRATH AND REDO
+- [ ] Maceration Stack
 
 
 ## In Progress
 
+- [ ] BENZENEEEE
 - [ ] automated source of nether stars ([[EEC]])
 - [ ] Either: Expand Ghast Tears OR EEC w/Ghast
 - [ ] Acquire independent Sulfur Supply (Red/Nether Stonelily OR Blaze)
-- [ ] 16 interfaces, 64 patterns, tons of cables
-- [ ] BENZENEEEE
+- [ ] 5 dedicated EECs
 
 
 ## Complete
@@ -44,6 +50,11 @@ kanban-plugin: basic
 - [ ] 16 compressed chests
 - [ ] Passive setup SMDs
 - [ ] Acquire heap of quartzes (miner's working)
+- [ ] 16 interfaces, 64 patterns, tons of cables
+- [ ] Storage Bus into Drawer Controller
+- [ ] Set up CPUs
+- [ ] P2P backbone
+- [ ] Hook up Backbone P2P through Wrath
 
 
 ## Abandoned

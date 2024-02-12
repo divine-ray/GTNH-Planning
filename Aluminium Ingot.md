@@ -1,12 +1,11 @@
 ---
 automated: false
 component-group:
-  - Mob Drops
+  - Ingots
 tags:
-  - Vanilla
-needed-for:
-  - "[[Ender Pearl]]"
-  - "[[Redstone Dust]]"
+  - Vital
+  - Element
+needed-for: 
 ingredients: 
 machine-type: 
 machine-voltage: 
