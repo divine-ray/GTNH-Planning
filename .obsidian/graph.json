@@ -1,11 +1,11 @@
 {
   "collapse-filter": true,
-  "search": "[\"automated\":] OR  tag:#Processing  ",
+  "search": "path:Production  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "[component-group:\"Mob Drops\"\"]",
@@ -37,7 +37,7 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 1.33054545454545,
   "lineSizeMultiplier": 1.09781818181818,
@@ -46,6 +46,6 @@
   "repelStrength": 10.4166666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.3103706971044649,
+  "scale": 0.47551697508163593,
   "close": false
 }
