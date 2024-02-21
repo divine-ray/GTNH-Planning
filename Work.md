@@ -19,34 +19,35 @@ kanban-plugin: basic
 - [ ] Semi automate AE2 Processors
 - [ ] plan and realise subnet for oreproc
 - [ ] Quartzes processing, passive fiberd
-- [ ] Raw #Simple-Components Autocrafting
-- [ ] molecular assembler w/ 4 speed cards
 - [ ] retrofit two alvearies into super production and mutation with tubes, respectively
 - [ ] Huge Multifarm for IC2 in [[Limbo]]
 - [ ] 1 ME Drive, 10 4k Singletype Fluid Drives, fluid terminal
-- [ ] Platline in it's full glory and beauty
 - [ ] RIP OUT WRATH AND REDO
-- [ ] LSC
+- [ ] LSC/central power infra
 - [ ] ME Fluid capabilities
+- [ ] Multi Mixer
+- [ ] Multi Alloy Smelter
+- [ ] Multi Extruder
 
 
 ## In Progress
 
-- [ ] one/two of each HV crafting machine (assembler, lathe, wiremill, 4 extruders, mixer) + 9x batt buffer
-- [ ] Multi Bender
 - [ ] Maceration Stack
 - [ ] Storage Bus Controller into our Drawers (main metals, crops, bauxline, ~~SMD~~)
-- [ ] Map out SMD and boards
 - [ ] BENZENEEEE
-- [ ] automated source of nether stars ([[EEC]])
-- [ ] Either: Expand Ghast Tears OR EEC w/Ghast
 - [ ] Acquire independent Sulfur Supply (Red/Nether Stonelily OR Blaze)
-- [ ] 5 dedicated EECs
-- [ ] Miner on deposit: QUARTZ
+- [ ] Platline in it's full glory and beauty
 
 
 ## Complete
 
+- [ ] Raw #Simple-Components Autocrafting
+- [ ] molecular assembler w/ 4 speed cards
+- [ ] Map out SMD and boards
+- [ ] automated source of nether stars ([[EEC]])
+- [ ] 5 dedicated EECs
+- [ ] Either: Expand Ghast Tears OR EEC w/Ghast
+- [ ] one/two of each HV crafting machine (assembler, lathe, wiremill, 4 extruders, mixer) + 9x batt buffer
 - [ ] Joe Drilling Senior
 - [ ] Crude AE Network
 - [ ] 10x16K ME disks
@@ -60,6 +61,8 @@ kanban-plugin: basic
 - [ ] Set up CPUs
 - [ ] P2P backbone
 - [ ] Hook up Backbone P2P through Wrath
+- [ ] Multi Bender
+- [ ] Miner on deposit: QUARTZ
 
 
 ## Abandoned

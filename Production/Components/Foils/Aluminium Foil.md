@@ -6,7 +6,7 @@ tags:
   - Simple-Components
 needed-for:
   - "[[Fiber-reinforced Circuit Board]]"
-  - "[[Production/SMD Capacitor]]"
+  - "[[SMD Capacitor]]"
 ingredients:
   - "[[Aluminium Ingot]]"
 machine-type: Bending Machine

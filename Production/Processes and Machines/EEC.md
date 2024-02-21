@@ -12,9 +12,9 @@ aliases:
   - Extreme extermination chamber
 ---
 .
-[[Enderman]]
-[[Blaze (Inferno)]]
+[[Lightning Enderman]]
 [[Redcap Sapper]]
 [[Witch of Rage]]
-[[Slimebug]]
-[[Ghast]]
+[[Fighter Ghast]]
+[[Queen Ghast]]
+[[Silverfish]]

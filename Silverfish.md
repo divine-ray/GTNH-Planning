@@ -2,9 +2,9 @@
 automated: false
 component-group:
   - Mob Drops
-tags: []
+tags: 
 needed-for:
-  - "[[Magma Cream]]"
+  - "[[Silver Nugget]]"
 ingredients: 
 machine-type: 
 machine-voltage: 

@@ -9,6 +9,9 @@ needed-for:
   - "[[Diamond]]"
   - "[[Tiny Gallium Dust]]"
   - "[[Small Gallium Dust]]"
+  - "[[Coal]]"
+  - "[[Flawless Diamond]]"
+  - "[[Exquisite Diamond]]"
 ingredients: 
 machine-type: 
 machine-voltage: 

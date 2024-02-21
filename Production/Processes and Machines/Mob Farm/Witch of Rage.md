@@ -10,6 +10,8 @@ needed-for:
   - "[[Sugar]]"
   - "[[Stick]]"
   - "[[Blaze Powder]]"
+  - "[[Gunpowder]]"
+  - "[[Glass Bottle]]"
 ingredients: 
 machine-type: 
 machine-voltage: 
