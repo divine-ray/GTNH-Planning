@@ -4,15 +4,6 @@ kanban-plugin: basic
 
 ---
 
-## Backlog
-
-- [ ] Setup [[Sodium Hydroxide|NaOH]] electrolysis
-- [ ] ABS for bullshittium GT++ alloys (for oreproc multi)
-- [ ] dedicated quad ebf at best possible stats for autocrafting
-- [ ] Styrene-Butadiene Rubber automation
-- [ ] EV mixer for crafting
-
-
 ## Planned
 
 - [ ] Components Autocrafting (Pistons, Motors, etc), automated; optionally stock keeping
@@ -21,26 +12,40 @@ kanban-plugin: basic
 - [ ] Quartzes processing, passive fiberd
 - [ ] retrofit two alvearies into super production and mutation with tubes, respectively
 - [ ] Huge Multifarm for IC2 in [[Limbo]]
-- [ ] 1 ME Drive, 10 4k Singletype Fluid Drives, fluid terminal
 - [ ] RIP OUT WRATH AND REDO
 - [ ] LSC/central power infra
 - [ ] ME Fluid capabilities
 - [ ] Multi Mixer
 - [ ] Multi Alloy Smelter
 - [ ] Multi Extruder
+- [ ] Crop Bot
+
+
+## Backlog
+
+- [ ] Crop BOt
+- [ ] Setup [[Sodium Hydroxide|NaOH]] electrolysis
+- [ ] ABS for bullshittium GT++ alloys (for oreproc multi)
+- [ ] dedicated quad ebf at best possible stats for autocrafting
+- [ ] Styrene-Butadiene Rubber automation
+- [ ] EV mixer for crafting
 
 
 ## In Progress
 
-- [ ] Maceration Stack
+- [ ] Yellow Stonelily, Nether Stonelily
+- [ ] 1 ME Drive, 10 4k Singletype Fluid Drives, fluid terminal
 - [ ] Storage Bus Controller into our Drawers (main metals, crops, bauxline, ~~SMD~~)
 - [ ] BENZENEEEE
 - [ ] Acquire independent Sulfur Supply (Red/Nether Stonelily OR Blaze)
 - [ ] Platline in it's full glory and beauty
+- [ ] Upgrade and digitize cleanroom
+- [ ] Tungsten (Scheelite, Tungstate) Processing
 
 
 ## Complete
 
+- [ ] Maceration Stack
 - [ ] Raw #Simple-Components Autocrafting
 - [ ] molecular assembler w/ 4 speed cards
 - [ ] Map out SMD and boards
@@ -63,6 +68,7 @@ kanban-plugin: basic
 - [ ] Hook up Backbone P2P through Wrath
 - [ ] Multi Bender
 - [ ] Miner on deposit: QUARTZ
+- [ ] Redstone separation into chrome
 
 
 ## Abandoned

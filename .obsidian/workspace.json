@@ -100,9 +100,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6367d9b04416109",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -271,10 +281,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f96e0772e9c8c411",
+  "active": "f6367d9b04416109",
   "lastOpenFiles": [
     "Production/Processes and Machines/EEC.md",
-    "Silverfish.md",
+    "Production/Processes and Machines/Mob Farm/Silverfish.md",
     "Production/Mob Drops/Ghast Tear.md",
     "Production/Processes and Machines/Mob Farm/Queen Ghast.md",
     "Production/Processes and Machines/Mob Farm/Ghast.md",
